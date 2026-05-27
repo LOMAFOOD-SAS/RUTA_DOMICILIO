@@ -1,0 +1,9 @@
+{
+  "to": "ejemplo@lomafood.com",
+  "subject": "Ruta del día - 01/06/2026",
+  "distance_km": 14.7,
+  "stops": 3,
+  "exceeds_limit": false,
+  "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=Calle%2077%20%2358-35%2C%20Bogota%2C%20Colombia&destination=Calle%2077%20%2358-35%2C%20Bogota%2C%20Colombia&waypoints=Carrera%207%20%2380-30%2C%20Bogot%C3%A1|Calle%20100%20%2315-20%2C%20Bogot%C3%A1|Avenida%20Boyac%C3%A1%20%2345-12%2C%20Bogot%C3%A1&travelmode=driving",
+  "html_file": "ruta-2026-06-01.html"
+}

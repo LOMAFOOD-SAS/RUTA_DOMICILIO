@@ -1,0 +1,41 @@
+# --- Datos sensibles (clientes, direcciones reales) ---
+AA_RUTA DEL DIA.xlsx
+Ruta de dia v*.xlsx
+*.xlsx
+!templates/*.xlsx
+
+# --- Outputs de cada día (no se versionan) ---
+ruta-*.html
+ruta-*.json
+ruta-*.SKIP
+
+# --- Carpetas auxiliares ---
+Docs Viejos/
+Furgon Electrico/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OneDrive / Office sync junk ---
+~$*
+*.tmp
+.~lock.*
